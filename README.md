@@ -134,7 +134,11 @@ GitHub supports emoji!
 ### Fork
    * when you click on fork of some ones repository(project) the same copy will appear on your repository(project).
 ### Collaborate
-   *
+   *click on setting right side
+   * and click on manage access 
+   * and invite the collabrates
+   * and add the email ids
+   * when they accept the invitation they can work on the project.
 ### Website hosting.
 ### readthedocs
 ### free online profile templates for resume
