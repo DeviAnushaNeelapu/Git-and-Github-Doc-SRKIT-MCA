@@ -118,3 +118,8 @@ GitHub supports emoji!
 :blush:	
 :innocent:		
 
+### Pull command 
+* Git init 
+* Git remote add origin url
+* Git remote -v 
+* Git pull origin master
