@@ -123,3 +123,26 @@ GitHub supports emoji!
 * Git remote add origin url
 * Git remote -v 
 * Git pull origin master
+### How to add a file into github.
+  *click on the repository or any file
+  * then you will get two options under * add a file *
+  * create a new file --it will create a new file
+  *  upload a new file- you can drag the files to the repository
+ ### Clone
+  * git clone url
+  * git clone url of the repository
+### Fork
+   * when you click on fork of some ones repository(project) the same copy will appear on your repository(project).
+### Collaborate
+   *
+### Website hosting.
+### readthedocs
+### free online profile templates for resume
+
+https://www.beautifullife.info/web-design/15-best-free-online-resumecv-website-templates-and-themes/
+
+https://superdevresources.com/html-resume-templates/
+
+https://colorlib.com/wp/html5-resume-templates/
+
+https://www.beautifullife.info/web-design/15-best-free-online-resumecv-website-templates-and-themes
