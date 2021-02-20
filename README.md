@@ -131,6 +131,18 @@ GitHub supports emoji!
  ### Clone
   * git clone url
   * git clone url of the repository
+ ### Branches 
+ * Default branch is master
+ * public repository
+ * create new branch then develop new features next we can suggest those changes.
+ * to check how many branches are available in local repository
+ * git branch
+ * display all the branches available to that repository
+ * how to create a new branch - git branch newbranchname
+ * if we want to change from one branch to another branch - git checkout branchname
+ * master -->demo1.text demo2.txt
+ * feature -->demo1.txt demo2.txt demo3.txt (master files will copy to the feature)
+ * feature2 --> which files will copy from master ,feature,feature will copy.
 ### Fork
    * when you click on fork of some ones repository(project) the same copy will appear on your repository(project).
 ### Collaborate
