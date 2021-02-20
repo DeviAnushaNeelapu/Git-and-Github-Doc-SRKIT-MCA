@@ -124,7 +124,7 @@ GitHub supports emoji!
 * Git remote -v 
 * Git pull origin master
 ### How to add a file into github.
-  *click on the repository or any file
+  * click on the repository or any file
   * then you will get two options under * add a file *
   * create a new file --it will create a new file
   *  upload a new file- you can drag the files to the repository
@@ -134,7 +134,7 @@ GitHub supports emoji!
 ### Fork
    * when you click on fork of some ones repository(project) the same copy will appear on your repository(project).
 ### Collaborate
-   *click on setting right side
+   * click on setting right side
    * and click on manage access 
    * and invite the collabrates
    * and add the email ids
