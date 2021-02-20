@@ -128,7 +128,7 @@ GitHub supports emoji!
   * then you will get two options under * add a file *
   * create a new file --it will create a new file
   *  upload a new file- you can drag the files to the repository
- ### Clone
+ ### Clone :Downloads the entire project on to the system.
   * git clone url
   * git clone url of the repository
  ### Branches 
