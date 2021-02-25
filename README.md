@@ -1,4 +1,63 @@
 # Git-and-Github-Doc-SRKIT-MCA
+
+Git and GitHub
+
+Git-Local system
+GitHub-Remote Server.
+
+Git is a Distributed System.
+And it is Version Control System.
+
+Git we will work on local system
+Github we will work on remote system
+
+we will share our project.
+
+Where is git&Github?
+1.Software Industry
+2.Online Certification(udacity,udemy,coursera)
+3.Static page hosting.
+
+
+Linux commands
+1)to create a folder -mkdir foldername
+2)to go inside the folder-cd foldername
+3)to create a file -touch filename
+4)to read the data from the file
+cat filename.
+5)To create or open a editor -vi filename.
+
+
+Steps to send the data from  Local to Remote
+-----------------------------------------------------------
+GIT&Git HUb
+
+1)git init
+ we are initialising our git the folder
+2)git status
+   status of the file
+   tracked-green color
+   untracked-red in color
+3)git add filename
+     or 
+     git add .
+     or git add -all
+4)git commit -m "message"
+5)git config --global user.name "devianusha"
+6)git config --global user.email "devianuhsa@gmail.com"
+7)git remote add origin url
+8)git push origin master.
+
+Task
+1.Create a new  folder with srk
+2.Go into that folder and create 3 files like 
+about.txt,contact.txt,departments.txt
+3.Add some data to the files.
+4.read the data
+5.And send the data to the remote system.
+
+------------------------------------------------------------------
+
 ### Markdown is a way to style text on the web.
 #### You control the display of the document; 
 #### formatting words as bold or italic, 
